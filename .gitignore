@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/UCF_CC_50
+/ShanghaiTech
+ucf dataset readme.txt
