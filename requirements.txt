@@ -1,0 +1,2 @@
+pytorch==1.6.0
+pretty_table==2.0.0
